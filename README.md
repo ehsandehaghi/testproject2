@@ -1,2 +1,2 @@
 # testproject2
-salam
+the file for javascript course
